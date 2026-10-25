@@ -63,7 +63,7 @@ DOM manipulation, localStorage, and Git version control.
 
 ## Author
 
-Web Development Internship Final Project
+Shabbir Lokhandwala
 
 ## License
 
